@@ -4,6 +4,7 @@
 *
 * SUM AS INPUT
 * Time Complexity: O(n)
+*  > Linear Time Complexity
 */
 var array_items = [
     3,
